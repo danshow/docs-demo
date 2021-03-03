@@ -1,4 +1,4 @@
-Deployment Guide（插入目录）
+Deployment Guide
 ============================
 
 Docs version：V1.1.0 Updated

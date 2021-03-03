@@ -1,4 +1,4 @@
-Introduction（插入目录）
+Introduction
 ========================
 
 [TOC]
